@@ -1,0 +1,346 @@
+[
+  {
+    "title": "Close to You",
+    "artist": "The Carpenters",
+    "key_signature": "G Major",
+    "estimated_tempo": null,
+    "sections": [
+      {
+        "name": "Intro",
+        "key": "G Major",
+        "chords": [
+          {
+            "raw": "C9",
+            "root": "C",
+            "quality": "dom9",
+            "function": "IV9",
+            "recommended_scale": "C Mixolydian. Target E natural.",
+            "voice_leading": "Keep E in top voice moving to D in next chord.",
+            "substitution": "Try Fmaj7 for a smoother transition"
+          },
+          {
+            "raw": "C",
+            "root": "C",
+            "quality": "maj",
+            "function": "IV",
+            "recommended_scale": "C Major. Target G natural.",
+            "voice_leading": "Keep G in top voice moving to F# in next chord.",
+            "substitution": "Try C6 for added color"
+          }
+        ],
+        "lyrics": null,
+        "emotion": null
+      },
+      {
+        "name": "Primera Parte",
+        "key": "G Major",
+        "chords": [
+          {
+            "raw": "C9",
+            "root": "C",
+            "quality": "dom9",
+            "function": "IV9",
+            "recommended_scale": "C Mixolydian. Target E natural.",
+            "voice_leading": "Keep E in top voice moving to D# in next chord.",
+            "substitution": "Try C7#11 for a more modern sound"
+          },
+          {
+            "raw": "B7(4)",
+            "root": "B",
+            "quality": "dom7",
+            "function": "III7(4)",
+            "recommended_scale": "B Mixolydian. Target D# natural.",
+            "voice_leading": "Keep D# in top voice moving to D in next chord.",
+            "substitution": "Try F#7 for a tritone substitution"
+          },
+          {
+            "raw": "B7",
+            "root": "B",
+            "quality": "dom7",
+            "function": "III7",
+            "recommended_scale": "B Mixolydian. Target F# natural.",
+            "voice_leading": "Keep F# in top voice moving to E in next chord.",
+            "substitution": "Try B7b9 for tension"
+          },
+          {
+            "raw": "Bm7",
+            "root": "B",
+            "quality": "min7",
+            "function": "iii7",
+            "recommended_scale": "B Dorian. Target F# natural.",
+            "voice_leading": "Keep F# in top voice moving to E in next chord.",
+            "substitution": "Try Gmaj7 for a smoother transition"
+          },
+          {
+            "raw": "Em7",
+            "root": "E",
+            "quality": "min7",
+            "function": "vi7",
+            "recommended_scale": "E Dorian. Target G natural.",
+            "voice_leading": "Keep G in top voice moving to F# in next chord.",
+            "substitution": "Try Em9 for added color"
+          }
+        ],
+        "lyrics": null,
+        "emotion": null
+      },
+      {
+        "name": "Chorus",
+        "key": "G Major",
+        "chords": [
+          {
+            "raw": "C",
+            "root": "C",
+            "quality": "maj",
+            "function": "IV",
+            "recommended_scale": "C Major. Target G natural.",
+            "voice_leading": "Keep G in top voice moving to F# in next chord.",
+            "substitution": "Try C6 for added color"
+          },
+          {
+            "raw": "C9",
+            "root": "C",
+            "quality": "dom9",
+            "function": "IV9",
+            "recommended_scale": "C Mixolydian. Target E natural.",
+            "voice_leading": "Keep E in top voice moving to D in next chord.",
+            "substitution": "Try C7#11 for a more modern sound"
+          },
+          {
+            "raw": "G",
+            "root": "G",
+            "quality": "maj",
+            "function": "I",
+            "recommended_scale": "G Major. Target B natural.",
+            "voice_leading": "Keep B in top voice moving to A in next chord.",
+            "substitution": "Try Gmaj7 for a smoother transition"
+          },
+          {
+            "raw": "G7M",
+            "root": "G",
+            "quality": "maj7",
+            "function": "I7",
+            "recommended_scale": "G Major. Target F# natural.",
+            "voice_leading": "Keep F# in top voice moving to E in next chord.",
+            "substitution": "Try Gmaj9 for added color"
+          }
+        ],
+        "lyrics": null,
+        "emotion": null
+      },
+      {
+        "name": "Second Part",
+        "key": "G Major",
+        "chords": [
+          {
+            "raw": "C",
+            "root": "C",
+            "quality": "maj",
+            "function": "IV",
+            "recommended_scale": "C Major. Target G natural.",
+            "voice_leading": "Keep G in top voice moving to F# in next chord.",
+            "substitution": "Try C6 for added color"
+          },
+          {
+            "raw": "C9",
+            "root": "C",
+            "quality": "dom9",
+            "function": "IV9",
+            "recommended_scale": "C Mixolydian. Target E natural.",
+            "voice_leading": "Keep E in top voice moving to D in next chord.",
+            "substitution": "Try C7#11 for a more modern sound"
+          },
+          {
+            "raw": "Bm7",
+            "root": "B",
+            "quality": "min7",
+            "function": "iii7",
+            "recommended_scale": "B Dorian. Target F# natural.",
+            "voice_leading": "Keep F# in top voice moving to E in next chord.",
+            "substitution": "Try Gmaj7 for a smoother transition"
+          },
+          {
+            "raw": "E7(4)",
+            "root": "E",
+            "quality": "dom7",
+            "function": "VI7(4)",
+            "recommended_scale": "E Mixolydian. Target D# natural.",
+            "voice_leading": "Keep D# in top voice moving to D in next chord.",
+            "substitution": "Try Bb7 for a tritone substitution"
+          },
+          {
+            "raw": "E7",
+            "root": "E",
+            "quality": "dom7",
+            "function": "VI7",
+            "recommended_scale": "E Mixolydian. Target G# natural.",
+            "voice_leading": "Keep G# in top voice moving to G in next chord.",
+            "substitution": "Try E7b9 for tension"
+          }
+        ],
+        "lyrics": null,
+        "emotion": null
+      },
+      {
+        "name": "Solo",
+        "key": "Db Major",
+        "chords": [
+          {
+            "raw": "Db9",
+            "root": "Db",
+            "quality": "dom9",
+            "function": "IV9",
+            "recommended_scale": "Db Mixolydian. Target F natural.",
+            "voice_leading": "Keep F in top voice moving to Eb in next chord.",
+            "substitution": "Try Db7#11 for a more modern sound"
+          },
+          {
+            "raw": "C7(4)",
+            "root": "C",
+            "quality": "dom7",
+            "function": "III7(4)",
+            "recommended_scale": "C Mixolydian. Target E natural.",
+            "voice_leading": "Keep E in top voice moving to Eb in next chord.",
+            "substitution": "Try F#7 for a tritone substitution"
+          },
+          {
+            "raw": "C7",
+            "root": "C",
+            "quality": "dom7",
+            "function": "III7",
+            "recommended_scale": "C Mixolydian. Target G natural.",
+            "voice_leading": "Keep G in top voice moving to F in next chord.",
+            "substitution": "Try C7b9 for tension"
+          }
+        ],
+        "lyrics": null,
+        "emotion": null
+      },
+      {
+        "name": "Third Part",
+        "key": "Db Major",
+        "chords": [
+          {
+            "raw": "Db",
+            "root": "Db",
+            "quality": "maj",
+            "function": "I",
+            "recommended_scale": "Db Major. Target Ab natural.",
+            "voice_leading": "Keep Ab in top voice moving to G in next chord.",
+            "substitution": "Try Db6 for added color"
+          },
+          {
+            "raw": "Db9",
+            "root": "Db",
+            "quality": "dom9",
+            "function": "I9",
+            "recommended_scale": "Db Mixolydian. Target F natural.",
+            "voice_leading": "Keep F in top voice moving to Eb in next chord.",
+            "substitution": "Try Db7#11 for a more modern sound"
+          },
+          {
+            "raw": "Cm7",
+            "root": "C",
+            "quality": "min7",
+            "function": "vii7",
+            "recommended_scale": "C Dorian. Target G natural.",
+            "voice_leading": "Keep G in top voice moving to F in next chord.",
+            "substitution": "Try Dbmaj7 for a smoother transition"
+          },
+          {
+            "raw": "F7(11)",
+            "root": "F",
+            "quality": "dom7",
+            "function": "II7(11)",
+            "recommended_scale": "F Mixolydian. Target A natural.",
+            "voice_leading": "Keep A in top voice moving to Ab in next chord.",
+            "substitution": "Try B7 for a tritone substitution"
+          },
+          {
+            "raw": "F7",
+            "root": "F",
+            "quality": "dom7",
+            "function": "II7",
+            "recommended_scale": "F Mixolydian. Target C natural.",
+            "voice_leading": "Keep C in top voice moving to B in next chord.",
+            "substitution": "Try F7b9 for tension"
+          }
+        ],
+        "lyrics": null,
+        "emotion": null
+      },
+      {
+        "name": "Fourth Part",
+        "key": "Db Major",
+        "chords": [
+          {
+            "raw": "Db9",
+            "root": "Db",
+            "quality": "dom9",
+            "function": "I9",
+            "recommended_scale": "Db Mixolydian. Target F natural.",
+            "voice_leading": "Keep F in top voice moving to Eb in next chord.",
+            "substitution": "Try Db7#11 for a more modern sound"
+          },
+          {
+            "raw": "C7(4)",
+            "root": "C",
+            "quality": "dom7",
+            "function": "III7(4)",
+            "recommended_scale": "C Mixolydian. Target E natural.",
+            "voice_leading": "Keep E in top voice moving to Eb in next chord.",
+            "substitution": "Try F#7 for a tritone substitution"
+          },
+          {
+            "raw": "C7",
+            "root": "C",
+            "quality": "dom7",
+            "function": "III7",
+            "recommended_scale": "C Mixolydian. Target G natural.",
+            "voice_leading": "Keep G in top voice moving to F in next chord.",
+            "substitution": "Try C7b9 for tension"
+          }
+        ],
+        "lyrics": null,
+        "emotion": null
+      },
+      {
+        "name": "Outro",
+        "key": "Db Major",
+        "chords": [
+          {
+            "raw": "Db",
+            "root": "Db",
+            "quality": "maj",
+            "function": "I",
+            "recommended_scale": "Db Major. Target Ab natural.",
+            "voice_leading": "Keep Ab in top voice moving to G in next chord.",
+            "substitution": "Try Db6 for added color"
+          },
+          {
+            "raw": "Db9",
+            "root": "Db",
+            "quality": "dom9",
+            "function": "I9",
+            "recommended_scale": "Db Mixolydian. Target F natural.",
+            "voice_leading": "Keep F in top voice moving to Eb in next chord.",
+            "substitution": "Try Db7#11 for a more modern sound"
+          },
+          {
+            "raw": "Ab7M",
+            "root": "Ab",
+            "quality": "maj7",
+            "function": "V7",
+            "recommended_scale": "Ab Major. Target G natural.",
+            "voice_leading": "Keep G in top voice moving to F in next chord.",
+            "substitution": "Try Abmaj9 for added color"
+          }
+        ],
+        "lyrics": null,
+        "emotion": null
+      }
+    ],
+    "overall_sentiment": "Romantic, Dreamy",
+    "id": "ae7ad424-943f-4c4f-aaf2-265890b0f9fc"
+  }
+]

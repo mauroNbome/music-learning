@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+
+  /* Custom Colors */
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-accent: var(--accent);
+
+  /* Fretboard Specific */
+  --color-fretboard-wood: var(--fretboard-wood);
+  --color-fretboard-inlay: var(--fretboard-inlay);
+  --color-string: var(--string);
+
+  /* Interval Colors */
+  --color-interval-root: var(--interval-root);
+  --color-interval-3: var(--interval-3);
+  --color-interval-5: var(--interval-5);
+  --color-interval-7: var(--interval-7);
+}
+
+:root {
+  /* Premium Dark Theme */
+  --background: #09090b;
+  /* Zinc 950 */
+  --foreground: #fafafa;
+  /* Zinc 50 */
+
+  --primary: #22c55e;
+  /* Green 500 (Vibrant for actions) */
+  --secondary: #A855F7;
+  /* Purple 500 (Creative) */
+  --accent: #06b6d4;
+  /* Cyan 500 (Technical) */
+
+  /* Interval Colors */
+  --interval-root: #ef4444;
+  /* Red 500 */
+  --interval-3: #eab308;
+  /* Yellow 500 */
+  --interval-5: #3b82f6;
+  /* Blue 500 */
+  --interval-7: #a855f7;
+  /* Purple 500 */
+  --interval-default: #71717a;
+  /* Zinc 500 */
+
+  /* UI Elements */
+  --fretboard-wood: #27272a;
+  /* Zinc 800 (Dark modern wood) */
+  --fretboard-inlay: #52525b;
+  /* Zinc 600 */
+  --string: #a1a1aa;
+  /* Zinc 400 */
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), sans-serif;
+  @apply antialiased;
+}
+
+@layer utilities {
+  .text-glow {
+    text-shadow: 0 0 10px var(--color-primary);
+  }
+}

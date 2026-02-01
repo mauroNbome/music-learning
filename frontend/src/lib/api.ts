@@ -1,6 +1,7 @@
 import { Song } from "@/types/song";
 
-const API_URL = "http://localhost:8000/api";
+const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api";
+console.log("🎵 API CONFIG:", { env: process.env.NEXT_PUBLIC_API_URL, resolved: API_URL });
 
 export async function analyzeSong(rawText: string): Promise<Song> {
     const response = await fetch(`${API_URL}/songbook/analyze`, {
